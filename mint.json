@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Quench.AI",
+  "theme": "prism",
   "logo": {
     "dark": "/logo/Logo_Light.svg",
     "light": "/logo/Logo_Dark.svg"
   },
-  "theme": "prism",
   "favicon": "/bg.svg",
   "colors": {
     "primary": "#B03AE9",
