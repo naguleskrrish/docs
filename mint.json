@@ -15,11 +15,10 @@
       "to": "#B03AE9"
     }
   },
-  "font" :{
+  "font" :[
     "family":"Geologica",
     "weight":400;
-    }
-  ,
+    ],
   "topbarLinks": [
     {
       "name": "Support",
