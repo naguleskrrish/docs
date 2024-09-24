@@ -16,7 +16,8 @@
     }
   },
   "font" :{
-    "family":"greycliff-cf"
+    "family":"greycliff-cf",
+    "format":"woff",
     "url":"href="https://use.typekit.net/xff2nyz.css"
   }
   ,
