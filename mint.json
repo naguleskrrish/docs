@@ -16,9 +16,14 @@
     }
   },
   "font" :{
-    "family":"Geologica",
-    "weight":400
+    "headings?":{
+      "family":"Geologica",
+      "weight":400
     },
+    "body?":{
+      
+    }
+  },
   "topbarLinks": [
     {
       "name": "Support",
