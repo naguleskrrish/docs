@@ -18,9 +18,11 @@
   "font" :{
     "headings":{
       "family":"Geologica",
-      "weight":400
+      "weight":500
     },
     "body":{
+      "family":"Geologica",
+       "weight":300
 
     }
   },
