@@ -17,15 +17,13 @@
   },
   "font" :{
     "headings":{
-      "family":"greycliff-cf",
-      "weight":500,
-      "url":"https://github.com/angelicahoyss/spotifyAPI/blob/c0107f084677cae440465958af24d885799c62f0/fonts/GreyCliff/Greycliff-CF-Medium.otf",
-      "format":"woff2"
+      "family":"Geologica",
+      "weight":500
 
     },
     "body":{
-      "family":"Geologica",
-       "weight":300
+      "family":"inter",
+       "weight":400
 
     }
   },
