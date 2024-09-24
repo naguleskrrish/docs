@@ -5,7 +5,7 @@
     "dark": "/logo/Logo_Light.svg",
     "light": "/logo/Logo_Dark.svg"
   },
-  "theme": "venus",
+  "theme": "prism",
   "favicon": "/bg.svg",
   "colors": {
     "primary": "#B03AE9",
