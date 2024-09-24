@@ -18,7 +18,10 @@
   "font" :{
     "headings":{
       "family":"Geologica",
-      "weight":400
+      "weight":400,
+      "url":"https://use.typekit.net/xff2nyz.css",
+      "format":'woff'
+
     },
     "body":{
       "family":"Geologica",
