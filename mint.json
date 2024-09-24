@@ -15,18 +15,6 @@
       "to": "#B03AE9"
     }
   },
-  "font" :{
-    "headings":{
-      "family":"Geologica",
-      "weight":400
-
-    },
-    "body":{
-      "family":"Inter",
-       "weight":400
-
-    }
-  },
   "topbarLinks": [
     {
       "name": "Support",
