@@ -17,9 +17,10 @@
   },
   "font" :{
     "family":"greycliff-cf",
+    "weight": "500",
     "format":"woff",
-    "url":"href="https://use.typekit.net/xff2nyz.css"
-  }
+    "url":"https://use.typekit.net/xff2nyz.css"
+    }
   ,
   "topbarLinks": [
     {
