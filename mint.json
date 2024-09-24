@@ -18,8 +18,8 @@
   "font" :{
     "headings":{
       "family":"greycliff-cf",
-      "weight":400,
-      "url":"https://use.typekit.net/xff2nyz.css",
+      "weight":500,
+      "url":"https://github.com/angelicahoyss/spotifyAPI/blob/c0107f084677cae440465958af24d885799c62f0/fonts/GreyCliff/Greycliff-CF-Medium.otf",
       "format":"woff2"
 
     },
