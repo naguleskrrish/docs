@@ -2,8 +2,8 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Quench.AI",
   "logo": {
-    "dark": "/logo/Logo_Light.svg",
-    "light": "/logo/Logo_Dark.svg"
+    "dark": "/logo/Doc_Light.svg",
+    "light": "/logo/Doc_Dark.svg"
   },
   "favicon": "/bg.svg",
   "colors": {
