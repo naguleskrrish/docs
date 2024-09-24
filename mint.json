@@ -9,8 +9,8 @@
   "favicon": "/bg.svg",
   "colors": {
     "primary": "#B03AE9",
-    "light": "#B03AE940",
-    "dark": "#B03AE940",
+    "light": "#B03AE9",
+    "dark": "#B03AE9",
     "anchors": {
       "from": "#0D9373",
       "to": "#07C983"
