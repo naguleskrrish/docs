@@ -1,7 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
   "name": "Quench.AI",
-  "theme": "prism",
   "logo": {
     "dark": "/logo/Logo_Light.svg",
     "light": "/logo/Logo_Dark.svg"
